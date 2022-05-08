@@ -1,0 +1,39 @@
+body{
+    background: url(444.jpg) fixed;
+    font-size: 20px;
+    font-family: cursive;
+    color:brown;
+}
+label {
+    margin:50px 50px 50px 50px;
+    background-color:rgb(161, 179, 134);
+    text-align:center;
+    padding:15px;
+}
+p {
+ 
+    width:12%;
+background:orange;
+padding: 15px;
+margin-left: 25%;
+
+}
+input{
+   width:30%;
+   height:30;
+   padding:10px;
+   border :lightgreen solid 2px;
+   border-radius: 25px;
+}
+div{
+   margin-left: 25%;
+   padding:12px;
+   text-align: center;
+   width: 10%;
+   background-color: dodgerblue;
+   color:firebrick;
+}
+div:hover{
+   background-color: firebrick;
+   color:dodgerblue;
+}
